@@ -1,6 +1,6 @@
 ## PYTHON COURSES
 
-_Just have some issues_
+_Just have some issues that need fixing_
 
 > **"** **DUDE,SUCKING** _at something_
 **IS THE FIRST STEP**
